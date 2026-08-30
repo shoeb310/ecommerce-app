@@ -1,4 +1,4 @@
-# Forever Full Stack
+# Ecommerce App
 
 A complete full-stack e-commerce application with a customer storefront, admin dashboard, and secure backend APIs. The project includes product management, cart handling, order placement, payment integration with Stripe and Razorpay, and role-based authentication.
 
@@ -50,7 +50,7 @@ The app supports:
 ## Project Structure
 
 ```bash
-forever-full-stack/
+ecommerce-app/
 ├── admin/
 │   ├── public/
 │   ├── src/
